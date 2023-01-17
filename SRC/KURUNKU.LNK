@@ -1,0 +1,21 @@
+g:\kurunku\ball.obj
+g:\kurunku\effect.obj
+g:\kurunku\number.obj
+g:\kurunku\graphics.obj
+g:\kurunku\sprite.obj
+g:\kurunku\sound.obj
+g:\kurunku\main.obj
+g:\kurunku\game.obj
+
+-lib d:\hc386\small\fmcfrb
+-lib d:\hc386\small\snd
+-lib d:\hc386\small\tbios
+-lib d:\hc386\small\hce
+-lib d:\hc386\small\na
+-lib d:\hc386\small\his
+-lib d:\hc386\small\tifflib
+-stack 131072
+-tc
+-80386
+-exe kurunku.exp
+
